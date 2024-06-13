@@ -1,0 +1,39 @@
+.playlistsPage {
+	color: bisque;
+}
+
+.searchForm {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+.playlists {
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-left: 0;
+	padding-top: 10px;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	list-style: none;
+}
+
+.playlists a {
+	color: cornflowerblue;
+	cursor: pointer;
+}
+
+.playlists a:hover {
+	color: rgb(72, 111, 184);
+}
+
+.playlists button {
+	text-align: left;
+	color: cornflowerblue;
+}
+
+.playlists button:hover {
+	text-align: left;
+	color: rgb(72, 111, 184);
+}

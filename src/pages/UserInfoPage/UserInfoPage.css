@@ -1,0 +1,16 @@
+.userInfoPage {
+	color: darkcyan;
+}
+
+.usersInfo {
+	padding-bottom: 10px;
+	border-bottom: 1px solid grey;
+}
+
+.playlist {
+	padding-top: 10px;
+}
+
+.playlist a {
+	color: rgb(9, 94, 221);
+}
